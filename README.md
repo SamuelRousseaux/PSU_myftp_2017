@@ -14,7 +14,7 @@ There's no prequisites to run the project.
 
 
 ## How to use it
-To use these programs, you first need to compile it using the makefile :
+To use this program, you first need to compile it using the makefile :
 
 To compile the program :    
 
